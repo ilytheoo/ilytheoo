@@ -33,7 +33,7 @@
 
 ---
 
-### 📈 GitHub Stats (optional if profile active)
+### 📈 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=default" alt="your github stats" />
 </p>
