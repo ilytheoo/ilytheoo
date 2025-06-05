@@ -2,6 +2,7 @@
 <h3 align="center">2nd Year IT Student</h3>
 
 <p align="center">
+<h2 align="left">About Me</h2>
   🔭 I’m currently focused on growing in <b>Cybersecurity, Machine Learning, and Web Development</b> <br>
   🌱 I’m expanding my skills in <b>Python, SQL, HTML/CSS, JavaScript</b> <br>
   💬 Ask me about <b>Robotics projects, fullstack development, or tech ethics</b> <br>
