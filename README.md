@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Emmanuel Joao</h1>
 <h3 align="center">2nd Year IT Student</h3>
 
@@ -16,9 +15,9 @@
 - 🌐 Front-End Development (React, CSS Flexbox, HTML5)
 - 🔐 Cybersecurity Fundamentals
 - 🤖 Machine Learning & Arduino Robotics
-- ☁️ AWS & Cloud Basics
+- ☁️ AWS & Cloud Basics 
+
   ---
-  
 <p align="center">
   <img src="https://github.com/ilytheoo/ilytheoo/blob/main/original-199091f9b19f067153ecd518321a3898.gif?raw=true" alt="Coding GIF" width="50%"/>
 </p>
