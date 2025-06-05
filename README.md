@@ -37,5 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=default" alt="your github stats" />
 </p>
 
+<p align="center">
 [![Profile Views](https://komarev.com/ghpvc/?username=ilytheoo&style=flat-square)](https://github.com/yourusername)
-
+</p>
