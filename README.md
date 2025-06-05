@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel Joao</h1>
-<h3 align="center">2nd Year Bachelor of IT Student @ Belgium Campus ITversity</h3>
+<h3 align="center">2nd Year IT Student</h3>
 
 <p align="center">
   🔭 I’m currently focused on growing in <b>Cybersecurity, Machine Learning, and Web Development</b> <br>
