@@ -45,4 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilytheoo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ilytheoo&style=flat-square)](https://github.com/yourusername)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ilytheoo/count.svg"/>
+</p>
