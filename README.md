@@ -32,10 +32,17 @@
 
 ---
 
-### 📈 GitHub Stats 
+
+### 📊 GitHub Profile Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=default" alt="your github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+### 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilytheoo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ilytheoo&style=flat-square)](https://github.com/yourusername)
