@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="/attachments/uZP5mjxpN9K2uVRbyd8oc.png" alt="Developer at work" width="50" style="vertical-align: middle; margin-left: 10px;"> Hi there, I'm Emmanuel Joao</h1>
+<h1 align="center"> <img src="(https://github.com/ilytheoo/ilytheoo/blob/assets-1/download.jpeg)" width="50" style="vertical-align: middle; margin-left: 10px;"> Hi there, I'm Emmanuel Joao</h1>
 <h3 align="center">2nd Year IT Student</h3>
 
 <p align="center">
