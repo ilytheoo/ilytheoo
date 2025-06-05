@@ -18,7 +18,7 @@
 - 🤖 Machine Learning & Arduino Robotics
 - ☁️ AWS & Cloud Basics
 <p align="center">
-<img src="[![3AyY](https://github.com/user-attachments/assets/39a85fc7-338c-419a-9938-ed07afbec3db)](https://github.com/ilytheoo/ilytheoo/blob/main/original-199091f9b19f067153ecd518321a3898.gif)"/>
+<img src="(https://github.com/ilytheoo/ilytheoo/blob/main/original-199091f9b19f067153ecd518321a3898.gif)"/>
 </p>
 ---
 
