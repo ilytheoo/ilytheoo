@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Emmanuel Joao</h1>
+<h1 align="center">Hi there, I'm Emmanuel Joao</h1>
 <h3 align="center">2nd Year IT Student</h3>
 
 <p align="center">
@@ -17,7 +17,9 @@
 - 🔐 Cybersecurity Fundamentals
 - 🤖 Machine Learning & Arduino Robotics
 - ☁️ AWS & Cloud Basics
-
+<p align="center">
+<img src="![3AyY](https://github.com/user-attachments/assets/39a85fc7-338c-419a-9938-ed07afbec3db)"/>
+</p>
 ---
 
 ### 💻 Tech Stack
