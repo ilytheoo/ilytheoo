@@ -53,7 +53,7 @@
   <!-- Text Shadow -->
   <text x="50%" y="50%" text-anchor="middle" dy="0.33em" font-family="'Segoe UI', Arial, sans-serif"
         font-size="38" font-weight="bold" fill="#000" opacity="0.28" filter="url(#glow)">
-    Hello there - I'm Emmanuel Joao
+     👨🏽‍💻 Hi there -- I'm Emmanuel Joao
   </text>
   <!-- Foreground Text -->
   <text x="50%" y="50%" text-anchor="middle" dy="0.33em" font-family="'Segoe UI', Arial, sans-serif"
