@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Emmanuel Joao
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" alt="animated coding" style="vertical-align:middle;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" alt="animated coding"/>
 </h1>
 <h3 align="center">2nd Year IT Student</h3>
 
