@@ -22,7 +22,7 @@
   <rect width="800" height="200" fill="url(#lavenderBG)"/>
   <!-- Energetic Animated Wave Paths -->
   <g>
-    <path fill="url(#waveGradient)" opacity="0.6" filter="url(#glow)">
+    <path id="wave1" fill="url(#waveGradient)" opacity="0.6" filter="url(#glow)">
       <animate attributeName="d" dur="4s" repeatCount="indefinite"
         values="
           M0 120 Q 120 80 220 120 T 400 120 Q 600 80 800 120 L800 200 L0 200 Z;
@@ -31,7 +31,7 @@
           M0 120 Q 120 80 220 120 T 400 120 Q 600 80 800 120 L800 200 L0 200 Z
         "/>
     </path>
-    <path fill="#fff" opacity="0.23">
+    <path id="wave2" fill="#fff" opacity="0.23">
       <animate attributeName="d" dur="3.2s" repeatCount="indefinite"
         values="
           M0 170 Q 200 130 400 170 T 800 170 L800 200 L0 200 Z;
@@ -40,7 +40,7 @@
           M0 170 Q 200 130 400 170 T 800 170 L800 200 L0 200 Z
         "/>
     </path>
-    <path fill="#fff" opacity="0.11">
+    <path id="wave3" fill="#fff" opacity="0.11">
       <animate attributeName="d" dur="2.6s" repeatCount="indefinite"
         values="
           M0 150 Q 200 160 400 140 T 800 150 L800 200 L0 200 Z;
