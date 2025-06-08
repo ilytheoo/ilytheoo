@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ilytheoo/ilytheoo/blob/main/animated-banner.svg" alt="Animated Banner" width="100%"/>
+  <img src="https://github.com/ilytheoo/ilytheoo/blob/assets/animated-banner.svg" alt="Animated Banner" width="100%"/>
 </p>
 
 <h3 align="center">2nd Year IT Student</h3>
@@ -22,7 +22,7 @@
 
   ---
 <p align="center">
-  <img src="https://github.com/ilytheoo/ilytheoo/blob/main/original-199091f9b19f067153ecd518321a3898.gif?raw=true" alt="Coding GIF" width="50%"/>
+  <img src="https://github.com/ilytheoo/ilytheoo/blob/assets/original-199091f9b19f067153ecd518321a3898.gif?raw=true" alt="Coding GIF" width="50%"/>
 </p>
 
 ### 💻 Tech Stack
