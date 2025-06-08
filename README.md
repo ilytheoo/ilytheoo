@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ilytheoo/ilytheoo/blob/main/animated-banner.svg" alt="Animated Banner" width="100%"/>
+  <img src="https://github.com/ilytheoo/ilytheoo/blob/assets/animated-banner.svg" alt="Animated Banner" width="100%"/>
 </p>
 
 <h3 align="center">2nd Year IT Student</h3>
