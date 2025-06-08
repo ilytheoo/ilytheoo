@@ -48,5 +48,6 @@
 </p>
 
 <p align="center">
+  Visitor Count:
   <img src="https://profile-counter.glitch.me/ilytheoo/count.svg"/>
 </p>
