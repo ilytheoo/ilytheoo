@@ -1,6 +1,7 @@
-<h1 align="center">
- 👨🏽‍💻 Hi there, I'm Emmanuel Joao
-</h1>
+<p align="center">
+  <img src="https://github.com/ilytheoo/ilytheoo/blob/main/animated-banner.svg" alt="Animated Banner" width="100%"/>
+</p>
+
 <h3 align="center">2nd Year IT Student</h3>
 
 <p align="center">
@@ -36,7 +37,6 @@
 </p>
 
 ---
-
 
 ### 📊 GitHub Profile Stats
 
