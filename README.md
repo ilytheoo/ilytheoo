@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=radical&custom_title=ilytheoo's%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
-### 📌 Most Used Languages
+### 📌 Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilytheoo&layout=compact&theme=radical" alt="Top Languages" />
