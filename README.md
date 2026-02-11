@@ -49,8 +49,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilytheoo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+ 
 <p align="center">
-    <b>Visitor Count:</b> <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ilytheoo" />
+  <b>Visitor Count:</b> <br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ilytheoo&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%2300FF00&title=Visitor%20Count&edge_flat=true"/>
 </p>
