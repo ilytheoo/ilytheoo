@@ -2,7 +2,7 @@
   <img src="https://github.com/ilytheoo/ilytheoo/blob/assets/animated-banner.svg" alt="Animated Banner" width="100%"/>
 </p>
 
-<h3 align="center">2nd Year IT Student</h3>
+<h3 align="center">3rd Year IT Student</h3>
 
 <p align="center">
 <h2 align="left">About Me</h2>
