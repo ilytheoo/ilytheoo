@@ -51,6 +51,6 @@
 </p>
 
 <p align="center">
-  <b>Visitor Count:</b> <br>
-  <img src="https://profile-counter.glitch.me/ilytheoo/count.svg"/>
+    <b>Visitor Count:</b> <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ilytheoo" />
 </p>
