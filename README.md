@@ -15,7 +15,7 @@
 ---
 
 ### 🧠 What I'm Learning
-- 🌐 Front-End Development (React, CSS Flexbox, HTML5)
+- 🌐 Front-End Development (React, CSS3, HTML5)
 - 🔐 Cybersecurity Fundamentals
 - 🤖 Machine Learning & Arduino Robotics
 - ☁️ AWS & Cloud Basics 
