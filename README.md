@@ -41,7 +41,7 @@
 ### 📊 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=radical&custom_title=ilytheoo%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilytheoo&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 📌 Used Languages
