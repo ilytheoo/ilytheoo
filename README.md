@@ -52,5 +52,5 @@
  
 <p align="center">
   <b>Visitor Count:</b> <br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ilytheoo&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%2300FF00&title=Visitor%20Count&edge_flat=true"/>
+  <img src="https://komarev.com/ghpvc/?username=ilytheoo&color=00FF00&style=flat-square&label=visitors"/>
 </p>
