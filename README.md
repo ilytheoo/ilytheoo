@@ -46,9 +46,9 @@
 
 ### 📌 Used Languages
 
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilytheoo&theme=radical" alt="GitHub Stats" />
+</p>
  
 <p align="center">
   <b> Visitor Counter: </b>
