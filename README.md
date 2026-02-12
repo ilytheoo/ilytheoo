@@ -52,5 +52,6 @@
  
 <p align="center">
   <b> Visitor Counter: </b>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=ilytheoo&color=00FF00&style=flat-square&label=Nice%20to%20meet%20you"/>
 </p>
