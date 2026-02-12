@@ -47,7 +47,8 @@
 ### 📌 Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilytheoo&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilytheoo&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilytheoo&theme=radical" alt="GitHub Stats" />
 </p>
  
 <p align="center">
