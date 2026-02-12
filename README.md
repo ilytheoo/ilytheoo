@@ -46,10 +46,9 @@
 
 ### 📌 Used Languages
 
-<p align="center">
-  <h3>ilytheoo's GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=radical" />
+</div>
  
 <p align="center">
   <b> Visitor Counter: </b>
