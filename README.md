@@ -15,10 +15,12 @@
 ---
 
 ### 🧠 What I'm Learning
-- 🌐 Front-End Development (React, CSS3, HTML5)
+- ⚙️ Backend Development
+   - JavaScript Ecosystem: Node.js & Express.js
+   - Microsoft Ecosystem: C# & .NET Core
 - 🔐 Cybersecurity Fundamentals
-- 🤖 Machine Learning & Arduino Robotics
-- ☁️ AWS & Cloud Basics 
+- 📊 Data Analytics & Business Intelligence
+- 🗄️ Database Management & SQL
 
   ---
 <p align="center">
