@@ -7,7 +7,7 @@
 <p align="center">
 <h2 align="left">About Me</h2>
   🔭 I’m currently focused on growing in <b>Cybersecurity, Machine Learning, and Web Development</b> <br>
-  🌱 I’m expanding my skills in <b>Python, SQL, C#, HTML/CSS, JavaScript</b> <br>
+  🌱 I’m expanding my skills in <b>Python, T-SQL, R, C#, HTML/CSS, JavaScript</b> <br>
   💬 Ask me about <b>Cybersecurity, fullstack development, or tech ethics</b> <br>
   📄 Learn more on <a href="https://www.linkedin.com/in/emmanuel-joao-007b23262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 </p>
